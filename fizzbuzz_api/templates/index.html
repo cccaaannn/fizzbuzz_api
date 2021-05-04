@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+<div>
+    <h1>
+        FizzBuzz api
+    </h1>
+    <p>Because why not.</p>
+    <p>Check the documentation on <a href="https://github.com/cccaaannn/fizzbuzz_api">github</a></p>
+
+    <hr>
+
+    <div id="fizzbuzzDiv"></div>
+
+</div>
+
+<script type="text/javascript" src="{{ url_for('static', filename='js/fetchAPI.js') }}"></script>
+
+{% endblock body %}
