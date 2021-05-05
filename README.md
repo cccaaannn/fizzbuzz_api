@@ -7,7 +7,7 @@ Yes I am serious
 
 
 ### I might not keep this running for obvious reasons.
-## [fizz-buzz.xyz](fizz-buzz.xyz)
+## [fizz-buzz.xyz](http://fizz-buzz.xyz)
 
 <br>
 
